@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=150&section=header&text=%20Welcome&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=150&section=header&text=%20Welcome&fontSize=60&fontAlignY=35)
 ### Hi there! 안녕하세요!👋
 
 My name is Ethan i'm a junior Back-end Web Developer who's looking for new opportunities
@@ -12,3 +12,4 @@ Techs that I've used at least once
 </center>
 
 ![Ethan's github stats](https://github-readme-stats.vercel.app/api?username=ethan3011&show_icons=true&theme=dracula)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ethan3011&layout=compact&theme=dracula)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=150&section=footer)
