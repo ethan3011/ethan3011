@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=%20Welcome&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=150&section=header&text=%20Welcome&fontSize=60)
 ### Hi there! 안녕하세요!👋
 
 My name is Ethan i'm a junior Back-end Web Developer who's looking for new opportunities
