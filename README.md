@@ -12,4 +12,4 @@ Techs that I've used at least once
 </center>
 
 ![Ethan's github stats](https://github-readme-stats.vercel.app/api?username=ethan3011&show_icons=true&theme=dracula)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ethan3011&layout=compact&theme=dracula)
-![footer](https://capsule-render.vercel.app/api?type=Wave&color=auto&height=200&section=footer)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=100&section=footer)
