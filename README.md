@@ -2,7 +2,8 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=150&section=header&text=%20Welcome&fontSize=50&fontAlignY=35)
 ### Hi there! 안녕하세요!👋
 
-My name is Ethan i'm a junior Back-end Web Developer who's looking for new opportunities
+### 최근 기록은 블로그로 이전하였습니다!
+https://hickory-manatee-d00.notion.site/80e3e270df8140c7af74b84f06832eef?v=453172bb62454d5d9da2e93166381a9a
 
 
 ### 🛠 Tech Stack 🛠
