@@ -3,7 +3,7 @@
 ### Hi there! 안녕하세요!👋
 
 ### 최근 기록은 블로그로 이전하였습니다!
-https://hickory-manatee-d00.notion.site/80e3e270df8140c7af74b84f06832eef?v=453172bb62454d5d9da2e93166381a9a
+https://ethan-jung.notion.site/80e3e270df8140c7af74b84f06832eef?v=033a477c017e420fa23cd9b73a29dd2b
 
 
 ### 🛠 Tech Stack 🛠
