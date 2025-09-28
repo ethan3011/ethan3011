@@ -3,7 +3,8 @@
 ### Hi there! 안녕하세요!👋
 
 ### 최근 기록은 블로그로 이전하였습니다!
-https://blog.korphil.com
+https://blog.korphil.com 
+https://ethan-jung.notion.site/
 
 
 ### 🛠 Tech Stack 🛠
