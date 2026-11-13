@@ -2,9 +2,9 @@
 
 <div align="center">
 
-### 코드부터 인프라, 사내 AI까지 직접 만들고 운영하는 개발자
+### I build and run everything from code to infrastructure to in-house AI
 
-경력 5년 · 금융·제조·공공·유통·커머스
+5 years of experience · Finance · Manufacturing · Public sector · Retail · Commerce
 
 [![Blog](https://img.shields.io/badge/Blog-blog.korphil.com-20c997?style=for-the-badge&logo=notion&logoColor=white)](https://blog.korphil.com)
 
@@ -14,10 +14,10 @@
 
 ## 👨‍💻 What I Do
 
-- **풀스택·인프라**: Java·Spring Boot 백엔드부터 React·Vue 프론트엔드, Kubernetes(k3s) 인프라까지 설계와 운영을 직접 수행
-- **사내 AI 플랫폼 1인 구축**: 오픈소스 LLM 서빙(vLLM), 벡터 검색(RAG), 에이전트 도구 호출, 정확도 자동 측정
-- **대용량 데이터 마이그레이션**: 현대자동차 CRM DB 4억 건, Siebel → Salesforce 파일 10TB 단독 수행 (Best Practice 선정)
-- **스마트팩토리**: MOM 운영·고도화, KPI 대시보드 구축, 2026년 사내 신규 시스템 5종 단독 구축
+- **Full-stack & infrastructure**: Design and run everything from Java/Spring Boot backends and React/Vue frontends to Kubernetes (k3s) infrastructure
+- **In-house AI platform, built solo**: Open-source LLM serving (vLLM), vector search (RAG), agent tool calling, automated accuracy evaluation
+- **Large-scale data migration**: Hyundai Motor CRM database (400 million records); 10 TB of files from Siebel to Salesforce, single-handedly (selected as a client best practice)
+- **Smart factory**: MOM operations and improvements, KPI dashboards, and five new in-house systems built solo in 2026
 
 ---
 
@@ -32,7 +32,7 @@
 
 </div>
 
-한국-필리핀 다문화 가정을 위한 **프로덕션 레벨 풀스택 커뮤니티 플랫폼**
+A **production-grade full-stack community platform** for Korean-Filipino multicultural families
 
 #### 🏗️ Architecture
 
@@ -48,12 +48,12 @@ AI:       Groq Llama 3.3 · Google Gemini
 
 | Feature | Description |
 |---------|-------------|
-| 🤖 **AI 뉴스 다이제스트** | 자동 뉴스 수집, 요약, 3개국어 번역 |
-| 💬 **실시간 채팅** | WebSocket STOMP 기반 1:1/그룹 채팅 |
-| 📱 **모바일 앱** | Capacitor 하이브리드 앱 + FCM 푸시 |
-| 🌏 **다국어 지원** | 한국어, English, Tagalog |
-| 💼 **구인구직** | 채용 공고 등록 및 지원 관리 |
-| 📅 **이벤트 관리** | 커뮤니티 이벤트 및 RSVP |
+| 🤖 **AI News Digest** | Automatic news collection, summaries, and translation into 3 languages |
+| 💬 **Real-time Chat** | 1:1 and group chat over WebSocket (STOMP) |
+| 📱 **Mobile App** | Capacitor hybrid app with FCM push notifications |
+| 🌏 **Multilingual** | Korean, English, Tagalog |
+| 💼 **Jobs** | Job postings and application management |
+| 📅 **Events** | Community events and RSVPs |
 
 #### 📊 Project Scale
 
@@ -61,7 +61,7 @@ AI:       Groq Llama 3.3 · Google Gemini
 - **17** React Pages · **38+** Components
 - **9** Admin Dashboard Pages
 
-> 개인 서버(Ubuntu 24.04 + K3s, 컨테이너 40여 개)에서 Private GitLab CI/CD 와 Prometheus·Grafana 모니터링으로 직접 운영합니다. 소스 코드는 비공개입니다.
+> Self-hosted on my own server (Ubuntu 24.04 + K3s, 40+ containers) with private GitLab CI/CD and Prometheus/Grafana monitoring. The source code is private.
 
 ---
 
@@ -69,9 +69,9 @@ AI:       Groq Llama 3.3 · Google Gemini
 
 | Project | Activity |
 |:--|:--|
-| [Spring Framework](https://github.com/spring-projects/spring-framework) | 레퍼런스 문서 오류 제보, 반영 ([#32335](https://github.com/spring-projects/spring-framework/issues/32335)) |
-| [Orca](https://github.com/stablyai/orca) | 버그 제보, 수정 ([#34690](https://github.com/stablyai/orca/issues/34690)) |
-| [Orca](https://github.com/stablyai/orca) | Pull Request 제출 ([#40020](https://github.com/stablyai/orca/pull/40020)) |
+| [Spring Framework](https://github.com/spring-projects/spring-framework) | Reported an error in the reference docs, now fixed ([#32335](https://github.com/spring-projects/spring-framework/issues/32335)) |
+| [Orca](https://github.com/stablyai/orca) | Reported a bug, now fixed ([#34690](https://github.com/stablyai/orca/issues/34690)) |
+| [Orca](https://github.com/stablyai/orca) | Submitted a pull request ([#40020](https://github.com/stablyai/orca/pull/40020)) |
 
 ---
 
@@ -137,7 +137,7 @@ AI:       Groq Llama 3.3 · Google Gemini
 
 <div align="center">
 
-💼 업무 코드는 회사 GitLab(비공개)에서 관리하고 있어 이곳 기여 그래프에는 나타나지 않습니다.
+💼 My day-to-day work lives in a private company GitLab, so it doesn't show up in the contribution graph here.
 
 📫 **Contact**: <ethan@korphil.com>
 
