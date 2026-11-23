@@ -69,8 +69,10 @@ AI:       Groq Llama 3.3 · Google Gemini
 
 | Project | Activity |
 |:--|:--|
+| [Harbor](https://github.com/goharbor/harbor) | Pull request: harbor-db refuses to start with an empty database when an upgrade skips a release ([#24466](https://github.com/goharbor/harbor/pull/24466), in review; reported in [#24465](https://github.com/goharbor/harbor/issues/24465)) |
+| [Orca](https://github.com/stablyai/orca) | Reported a bug: a comma-separated terminal font family is quoted as one font name, so a Korean fallback font can't be added ([#47488](https://github.com/stablyai/orca/issues/47488), open) |
 | [MetalLB](https://github.com/metallb/metallb) | Pull request: L2 speakers keep retrying until the node's interfaces are known, so LoadBalancer IPs are announced after a reboot ([#3202](https://github.com/metallb/metallb/pull/3202), in review; reported in [#3201](https://github.com/metallb/metallb/issues/3201)) |
-| [K3s](https://github.com/k3s-io/k3s) | Reported a bug: upgrades briefly drop Service and LoadBalancer traffic because install.sh clears the iptables rules before restarting ([#15040](https://github.com/k3s-io/k3s/issues/15040), open) |
+| [K3s](https://github.com/k3s-io/k3s) | Reported LoadBalancer downtime during upgrades caused by the iptables cleanup in install.sh; maintainers pointed to `INSTALL_K3S_SKIP_START` to avoid it ([#15040](https://github.com/k3s-io/k3s/issues/15040), closed) |
 | [Traefik](https://github.com/traefik/traefik) | Pull request: documented the entryPoint read timeout in the ingress-nginx migration guide, based on a production migration ([#14352](https://github.com/traefik/traefik/pull/14352), in review) |
 | [Orca](https://github.com/stablyai/orca) | Pull request: connect chat sessions to Claude Code Remote Control so they show up in the Claude mobile app ([#40020](https://github.com/stablyai/orca/pull/40020), in review) |
 | [Orca](https://github.com/stablyai/orca) | Reported a bug, now fixed ([#34690](https://github.com/stablyai/orca/issues/34690)) |
