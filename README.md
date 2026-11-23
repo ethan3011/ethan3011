@@ -69,9 +69,10 @@ AI:       Groq Llama 3.3 · Google Gemini
 
 | Project | Activity |
 |:--|:--|
-| [Spring Framework](https://github.com/spring-projects/spring-framework) | Reported an error in the reference docs, now fixed ([#32335](https://github.com/spring-projects/spring-framework/issues/32335)) |
+| [Traefik](https://github.com/traefik/traefik) | Pull request: documented the entryPoint read timeout in the ingress-nginx migration guide, based on a production migration ([#14352](https://github.com/traefik/traefik/pull/14352), in review) |
+| [Orca](https://github.com/stablyai/orca) | Pull request: connect chat sessions to Claude Code Remote Control so they show up in the Claude mobile app ([#40020](https://github.com/stablyai/orca/pull/40020), in review) |
 | [Orca](https://github.com/stablyai/orca) | Reported a bug, now fixed ([#34690](https://github.com/stablyai/orca/issues/34690)) |
-| [Orca](https://github.com/stablyai/orca) | Submitted a pull request ([#40020](https://github.com/stablyai/orca/pull/40020)) |
+| [Spring Framework](https://github.com/spring-projects/spring-framework) | Reported an error in the reference docs, now fixed ([#32335](https://github.com/spring-projects/spring-framework/issues/32335)) |
 
 ---
 
