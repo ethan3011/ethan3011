@@ -69,6 +69,7 @@ AI:       Groq Llama 3.3 · Google Gemini
 
 | Project | Activity |
 |:--|:--|
+| [K3s](https://github.com/k3s-io/k3s) | Reported a bug: upgrades briefly drop Service and LoadBalancer traffic because install.sh clears the iptables rules before restarting ([#15040](https://github.com/k3s-io/k3s/issues/15040), open) |
 | [Traefik](https://github.com/traefik/traefik) | Pull request: documented the entryPoint read timeout in the ingress-nginx migration guide, based on a production migration ([#14352](https://github.com/traefik/traefik/pull/14352), in review) |
 | [Orca](https://github.com/stablyai/orca) | Pull request: connect chat sessions to Claude Code Remote Control so they show up in the Claude mobile app ([#40020](https://github.com/stablyai/orca/pull/40020), in review) |
 | [Orca](https://github.com/stablyai/orca) | Reported a bug, now fixed ([#34690](https://github.com/stablyai/orca/issues/34690)) |
