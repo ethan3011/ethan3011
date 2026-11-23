@@ -69,6 +69,7 @@ AI:       Groq Llama 3.3 · Google Gemini
 
 | Project | Activity |
 |:--|:--|
+| [MetalLB](https://github.com/metallb/metallb) | Pull request: L2 speakers keep retrying until the node's interfaces are known, so LoadBalancer IPs are announced after a reboot ([#3202](https://github.com/metallb/metallb/pull/3202), in review; reported in [#3201](https://github.com/metallb/metallb/issues/3201)) |
 | [K3s](https://github.com/k3s-io/k3s) | Reported a bug: upgrades briefly drop Service and LoadBalancer traffic because install.sh clears the iptables rules before restarting ([#15040](https://github.com/k3s-io/k3s/issues/15040), open) |
 | [Traefik](https://github.com/traefik/traefik) | Pull request: documented the entryPoint read timeout in the ingress-nginx migration guide, based on a production migration ([#14352](https://github.com/traefik/traefik/pull/14352), in review) |
 | [Orca](https://github.com/stablyai/orca) | Pull request: connect chat sessions to Claude Code Remote Control so they show up in the Claude mobile app ([#40020](https://github.com/stablyai/orca/pull/40020), in review) |
