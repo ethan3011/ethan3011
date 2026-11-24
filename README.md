@@ -6,8 +6,6 @@
 
 5 years of experience · Finance · Manufacturing · Public sector · Retail · Commerce
 
-[![Blog](https://img.shields.io/badge/Blog-blog.korphil.com-20c997?style=for-the-badge&logo=notion&logoColor=white)](https://blog.korphil.com)
-
 </div>
 
 ---
