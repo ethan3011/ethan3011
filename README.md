@@ -67,6 +67,7 @@ AI:       Groq Llama 3.3 · Google Gemini
 
 | Project | Activity |
 |:--|:--|
+| [docx](https://github.com/dolanmiu/docx) | Pull request: clarified that the paragraph `wordWrap` option makes Word break Korean words, measured in Word ([#3936](https://github.com/dolanmiu/docx/pull/3936), in review) |
 | [Harbor](https://github.com/goharbor/harbor) | Pull request: harbor-db refuses to start with an empty database when an upgrade skips a release ([#24466](https://github.com/goharbor/harbor/pull/24466), in review; reported in [#24465](https://github.com/goharbor/harbor/issues/24465)) |
 | [Orca](https://github.com/stablyai/orca) | Reported a bug: a comma-separated terminal font family was quoted as one font name, so a Korean fallback font couldn't be added ([#47488](https://github.com/stablyai/orca/issues/47488), now fixed in [#47561](https://github.com/stablyai/orca/pull/47561)) |
 | [MetalLB](https://github.com/metallb/metallb) | Pull request: L2 speakers keep retrying until the node's interfaces are known, so LoadBalancer IPs are announced after a reboot ([#3202](https://github.com/metallb/metallb/pull/3202), in review; reported in [#3201](https://github.com/metallb/metallb/issues/3201)) |
