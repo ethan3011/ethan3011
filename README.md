@@ -68,7 +68,7 @@ AI:       Groq Llama 3.3 · Google Gemini
 | Project | Activity |
 |:--|:--|
 | [SQLFluff](https://github.com/sqlfluff/sqlfluff) | Pull requests: parse T-SQL `SET STATISTICS` with more than one option ([#9311](https://github.com/sqlfluff/sqlfluff/pull/9311), in review), and read config and ignore files as UTF-8, so excluded folders with Korean names stay untouched on Windows ([#9310](https://github.com/sqlfluff/sqlfluff/pull/9310), in review) |
-| [Apache Airflow](https://github.com/apache/airflow) | Pull request: added the missing Korean translations for the durable execution banner ([#77578](https://github.com/apache/airflow/pull/77578), in review) |
+| [Apache Airflow](https://github.com/apache/airflow) | Pull request: added the missing Korean translations for the durable execution banner ([#77578](https://github.com/apache/airflow/pull/77578), merged) |
 | [Harbor](https://github.com/goharbor/harbor) | Pull requests: fixed the Korean portal translation, where placeholders hid the real error ([#24482](https://github.com/goharbor/harbor/pull/24482), approved, in review) and failed replications were labeled "run" ([#24483](https://github.com/goharbor/harbor/pull/24483), approved, in review) |
 | [docx](https://github.com/dolanmiu/docx) | Pull request: clarified that the paragraph `wordWrap` option makes Word break Korean words, measured in Word ([#3936](https://github.com/dolanmiu/docx/pull/3936), in review) |
 | [Harbor](https://github.com/goharbor/harbor) | Pull request: harbor-db refuses to start with an empty database when an upgrade skips a release ([#24466](https://github.com/goharbor/harbor/pull/24466), in review; reported in [#24465](https://github.com/goharbor/harbor/issues/24465)) |
