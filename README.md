@@ -67,6 +67,7 @@ AI:       Groq Llama 3.3 · Google Gemini
 
 | Project | Activity |
 |:--|:--|
+| [Harbor](https://github.com/goharbor/harbor) | Pull request: fixed broken placeholders in the Korean translation that hid the real error in the portal ([#24482](https://github.com/goharbor/harbor/pull/24482), in review) |
 | [docx](https://github.com/dolanmiu/docx) | Pull request: clarified that the paragraph `wordWrap` option makes Word break Korean words, measured in Word ([#3936](https://github.com/dolanmiu/docx/pull/3936), in review) |
 | [Harbor](https://github.com/goharbor/harbor) | Pull request: harbor-db refuses to start with an empty database when an upgrade skips a release ([#24466](https://github.com/goharbor/harbor/pull/24466), in review; reported in [#24465](https://github.com/goharbor/harbor/issues/24465)) |
 | [Orca](https://github.com/stablyai/orca) | Reported a bug: a comma-separated terminal font family was quoted as one font name, so a Korean fallback font couldn't be added ([#47488](https://github.com/stablyai/orca/issues/47488), now fixed in [#47561](https://github.com/stablyai/orca/pull/47561)) |
