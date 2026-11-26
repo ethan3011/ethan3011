@@ -67,7 +67,7 @@ AI:       Groq Llama 3.3 · Google Gemini
 
 | Project | Activity |
 |:--|:--|
-| [SQLFluff](https://github.com/sqlfluff/sqlfluff) | Pull requests: parse T-SQL `SET STATISTICS` with more than one option ([#9311](https://github.com/sqlfluff/sqlfluff/pull/9311), merged), and read config and ignore files as UTF-8, so excluded folders with Korean names stay untouched on Windows ([#9310](https://github.com/sqlfluff/sqlfluff/pull/9310), merged) |
+| [SQLFluff](https://github.com/sqlfluff/sqlfluff) | Pull requests: T-SQL parsing of `SET STATISTICS` with more than one option ([#9311](https://github.com/sqlfluff/sqlfluff/pull/9311), merged), `WITH XMLNAMESPACES` ([#9315](https://github.com/sqlfluff/sqlfluff/pull/9315), in review) and `ALTER DATABASE` file and filegroup options ([#9316](https://github.com/sqlfluff/sqlfluff/pull/9316), in review); read config and ignore files as UTF-8, so excluded folders with Korean names stay untouched on Windows ([#9310](https://github.com/sqlfluff/sqlfluff/pull/9310), merged) |
 | [Apache Airflow](https://github.com/apache/airflow) | Pull request: added the missing Korean translations for the durable execution banner ([#77578](https://github.com/apache/airflow/pull/77578), merged) |
 | [Harbor](https://github.com/goharbor/harbor) | Pull requests: fixed the Korean portal translation, where placeholders hid the real error ([#24482](https://github.com/goharbor/harbor/pull/24482), merged) and failed replications were labeled "run" ([#24483](https://github.com/goharbor/harbor/pull/24483), merged) |
 | [docx](https://github.com/dolanmiu/docx) | Pull request: clarified that the paragraph `wordWrap` option makes Word break Korean words, measured in Word ([#3936](https://github.com/dolanmiu/docx/pull/3936), in review) |
